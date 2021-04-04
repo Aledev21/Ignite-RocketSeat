@@ -6,7 +6,7 @@ export function Couter() {
     const [counter, setCounter] = useState(0);
 
     function increment() {
-        setCounter(counter +1)
+        setCounter(counter + 0)
     }
 
     return (
